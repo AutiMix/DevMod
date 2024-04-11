@@ -1,4 +1,5 @@
 {
   "block.testmod.myblock" : "DevBlock",
-  "item.testmod.voucher" : "Voucher"
+  "item.testmod.voucher" : "Voucher",
+  "mytabname": "TestMod"
 }
